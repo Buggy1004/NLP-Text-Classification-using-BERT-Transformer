@@ -1,7 +1,5 @@
 # NLP-Text-Classification-using-BERT-Transformer
 A New language representation model called BERT, which stands for Bidirectional Encoder Representations from Transformers. Unlike recent language representation models, BERT is designed to pre-train deep bidirectional representations from unlabeled text by jointly conditioning on both left and right context in all layers.
-# NLP_Text_Classification_with_Transformers_RoBERTa_and_XLNet_Model
-
 <h3><b><u>Introduction:</u></b></h3>
 
 This project covers the end to end implementation of how to load, fine tune and evaluate various transformer models for NLP based text classification tasks.
